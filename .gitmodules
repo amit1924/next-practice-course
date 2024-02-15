@@ -1,0 +1,3 @@
+[submodule "next-course"]
+	path = next-course
+	url = https://github.com/amit1924/next-practice-course.git
